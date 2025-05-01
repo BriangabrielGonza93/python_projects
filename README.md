@@ -7,10 +7,22 @@ It acts as a living portfolio that will expand as my skills grow.
 
 ## 📂 Repository structure
 
-| Folder / Project | Short description                                                         | Status |
-| ---------------- | ------------------------------------------------------------------------- | ------ |
-| `order_for_resto` | CLI program that takes a restaurant order (starter · main · dessert).     | ✅ Finished |
-| `...`            | _Coming soon: automation tools, data‑analysis notebooks, mini REST APIs._ | ⏳ |
+| Folder / Project | Short description | Status |
+|------------------|-------------------|--------|
+| order_for_resto  | CLI program that takes a restaurant order (starter · main · dessert) | ✅ Finished |
+| rock_paper_scissors_game | Classic terminal game vs. computer (loops, functions, random) | ✅ Finished |
+| steps_of_users_gym | Weekly steps analysis script and sample data | 🛠 WIP |
+
+### Rock Paper Scissors Game
+
+Small Python script that lets the user play **Rock Paper Scissors** against the computer.
+
+* **Key concepts**: user input, `random.choice`, functions, loops, basic scoring.
+* **Run it**:
+  ```bash
+  python rock_paper_scissors_game/Rock_Paper_Scissors_Game_code.py
+
+
 
 > Each project includes its own **README** with setup and run instructions.
 
